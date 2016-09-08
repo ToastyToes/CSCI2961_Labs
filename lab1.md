@@ -19,18 +19,29 @@ Blocky
 
 while (notDone()) {
   if (isPathForward()) {
+  
   } else {
+  
   if (isPathLeft()) {
+  
       turnLeft();
+  
       moveForward();
+  
     }
+  
   }
 
   if (isPathRight()) {
+
     turnRight();
+
   } else {
+
     if (isPathLeft()) {
+
       turnLeft();
+
     }
   }
   moveForward();
