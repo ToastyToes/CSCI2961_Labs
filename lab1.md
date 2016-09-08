@@ -25,21 +25,12 @@ while (notDone()) {
       moveForward();
     }
   }
-
   if (isPathRight()) {
-
     turnRight();
-
   } else {
-
     if (isPathLeft()) {
-
       turnLeft();
-
     }
-
   }
-
   moveForward();
-
 }
