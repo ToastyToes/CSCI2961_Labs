@@ -22,7 +22,7 @@ while (notDone()) {
   
   } else {
   
-  if (isPathLeft()) {
+    if (isPathLeft()) {
   
       turnLeft();
   
