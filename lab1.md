@@ -16,10 +16,11 @@ Regex
 3.  
 
 Blocky
-.while (notDone()) {
+
+while (notDone()) {
   if (isPathForward()) {
   } else {
-    if (isPathLeft()) {
+  if (isPathLeft()) {
       turnLeft();
       moveForward();
     }
