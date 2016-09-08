@@ -24,7 +24,6 @@ while (notDone()) {
       turnLeft();
       moveForward();
     }
-
   }
 
   if (isPathRight()) {
