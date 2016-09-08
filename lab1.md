@@ -12,8 +12,9 @@ Linux Tree
 
 Regex
 1.  1)abc 1.5)123 2)\. 3)[cmf] 4)[^bog] 5)[A-C] 6)z{3} 7)[bc]+
+
 2.  1)help 2)bobe 3)oooo 4)**//
-3.  
+  
 
 Blocky
 
