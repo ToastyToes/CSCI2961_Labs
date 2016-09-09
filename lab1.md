@@ -2,6 +2,7 @@ Smart Questons
 - In my past experiences, even if I learned the answer from a friend, it is important to make sure I can do it on my own/get to
   the same conclusion. 
 - In terms of asking questions, most stuff is online (like the article said) you just have to dig for it or break up the problem
+- Another thing to do is broaden the search terms instead of being specific
 
 --------
 
@@ -12,8 +13,7 @@ easier to access within the already exisiting community. While it did promote pi
 --------
 
 Linux Tree
-[insert pic here]
-
+![ToastyToes](image1.jpg)
 -------
 
 Regex
