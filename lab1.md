@@ -55,4 +55,10 @@ while (notDone()) {
   }
   
   moveForward();
+
 }
+-----
+Reflection
+
+I don't know yet, I'm interested in trying anything. Probably going to work on something already started.
+
