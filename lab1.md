@@ -13,7 +13,7 @@ easier to access within the already exisiting community. While it did promote pi
 --------
 
 Linux Tree
-![ToastyToes](image1.jpg)
+![ToastyToes](Tree)
 -------
 
 Regex
