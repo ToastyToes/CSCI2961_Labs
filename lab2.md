@@ -10,3 +10,6 @@ If the software you are using is not licensed that means there can be restrictio
 the source code, not being able to use it with other programs, etc). Also, if they change the restrictions in an update and you are not
 protected by the license, the update can affect everything you are doing. 
 
+----
+4. Do you agree with this claim?
+
