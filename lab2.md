@@ -1,3 +1,4 @@
+
 2. Why it is important to choose a LICENSE?
 A license is important to keep others from inappropriately using your software/claiming it as their own or saying their messed up mod
 is your fault. It allows you to specify how free you want your program to be and how other programs can interract with it. Depending on
