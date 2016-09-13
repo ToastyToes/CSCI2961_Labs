@@ -1,4 +1,5 @@
 Lab 2
+1. It wouldnt let me start with 2.
 
 2. Why it is important to choose a LICENSE?
 A license is important to keep others from inappropriately using your software/claiming it as their own or saying their messed up mod
