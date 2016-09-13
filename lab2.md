@@ -1,4 +1,3 @@
-Lab 2
 1. It wouldnt let me start with 2.
 
 2. Why it is important to choose a LICENSE?
