@@ -6,5 +6,6 @@
 
 4. The rise and fall in Gopher makes sense. To begin with, in general, the inferior product is usually taken down over time. The fact that for every file you would have to manually add a link seems like an annoying task that was minimalized by the web. While at the time Gopher's logic/thinking made sense, the Web ended up being better for future tasks. Both of course went through change that took the best of their structure, but the web's internal structure was just better.
 
-5.  
-
+5. The GPL makes sure anyone who mods uses the same license. Its simple and protects everything, while giving freedom to innovate/mod. 
+6. MIT License because we arent working on anything important and are fine with people modding it and claiming the mod at least for this poject.
+7. Developers and companies are best off using apache. Apache keeps the most modes in their name/a part of their work. If working on big projects or large 
