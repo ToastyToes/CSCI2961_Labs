@@ -20,6 +20,7 @@
 https://github.com/rcos/Observatory | Yes | Two Clause BSD License https://en.wikipedia.org/wiki/ISC_license
 https://github.com/wtg/shuttle_tracking_2 | Yes | Two Clause BSD
 https://github.com/rpiml/okcollege-web-client | Yes | MIT
-
+https://github.com/Submitty/Submitty | Yes | BSD
+https://github.com/FullScreenShenanigans/FullScreenPokemon | Yes | Two Clause BSD
 
  
